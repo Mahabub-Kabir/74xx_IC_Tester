@@ -44,7 +44,7 @@ A comprehensive automated Integrated Circuit (IC) tester built with Arduino that
 ## Hardware Requirements
 
 ### Components
-- Arduino Mega 2560 or Arduino Uno
+- Arduino Mega 2560 
 - 16x2 I2C LCD Display
 - Push Buttons (2x)
 - IC Sockets (14-pin and 16-pin)
